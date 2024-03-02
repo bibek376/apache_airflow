@@ -1,0 +1,14 @@
+
+-----------------------------------------------------------Youtube link----------------------------------------------------------
+
+https://www.youtube.com/watch?v=q8q3OFFfY6c
+https://www.youtube.com/watch?v=uhQ54Dgp6To&t=2548s
+
+
+
+-----------------------------------------------------------Apache Airflow Installation ----------------------------------------------------------
+
+https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html
+
+-----------------------------------------------------------Youtube link----------------------------------------------------------
+
