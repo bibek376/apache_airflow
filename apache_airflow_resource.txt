@@ -10,5 +10,11 @@ https://www.youtube.com/watch?v=uhQ54Dgp6To&t=2548s
 
 https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html
 
------------------------------------------------------------Youtube link----------------------------------------------------------
+
+--------------------------------apache airflow connections test not showing----------------------------------------------------------
+
+You can enable connection testing by setting the test_connection core config to Enabled by defining the environment variable AIRFLOW__CORE__TEST_CONNECTION=Enabled in your Airflow environment.
+
+
+-----------------------------------------------------------Apache Airflow Installation ----------------------------------------------------------
 
