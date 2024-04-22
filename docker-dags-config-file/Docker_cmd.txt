@@ -1,0 +1,21 @@
+
+-- To build docker compose file
+
+docker-compose build
+
+-- To build docker compose file in no--cache mode
+
+docker-compose build --no-cache
+
+--To docker compose file
+
+docker-compose up
+
+--To stop 
+
+docker-compose down
+
+--To restart
+
+docker-compose restart
+
